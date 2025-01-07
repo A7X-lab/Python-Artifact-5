@@ -1,45 +1,47 @@
-Welcome to the To-Do List App v1.0
+# To-Do List App
 
-Simple yet powerful task management application designed to help you stay organized and productive. Built with Python, this console-based program allows users to manage tasks efficiently through an intuitive menu system.
+Welcome to the **To-Do List App**, a simple yet powerful task management application designed to help you stay organized and productive. Built with Python, this console-based program allows users to manage tasks efficiently through an intuitive menu system.
 
-Features
-Core Functionality:
-Add Task
-Easily create and add new tasks with detailed descriptions.
+---
 
-View Tasks
-Display all tasks, clearly marked with their completion status:
+## Features
 
-Pending: ✗
-Completed: ✓
-Mark Task as Complete
-Update the status of tasks to reflect their completion.
+### Core Functionality:
+- **Add Task**  
+  Easily create and add new tasks with detailed descriptions.
 
-Edit Task
-Modify the description of existing tasks with ease.
+- **View Tasks**  
+  Display all tasks, clearly marked with their completion status:
+  - **Pending**: ✗  
+  - **Completed**: ✓  
 
-Remove Task
-Delete tasks that are no longer required.
+- **Mark Task as Complete**  
+  Update the status of tasks to reflect their completion.
 
-User-Friendly Design:
-Menu-Driven Interface
-Intuitive navigation through a clean and easy-to-use console menu.
+- **Edit Task**  
+  Modify the description of existing tasks with ease.
 
-Input Validation
-Handles invalid inputs gracefully to ensure smooth user experience.
+- **Remove Task**  
+  Delete tasks that are no longer required.
 
-Status Feedback
-Clear messages confirm successful actions or notify users of any errors.
+### User-Friendly Design:
+- **Menu-Driven Interface**  
+  Intuitive navigation through a clean and easy-to-use console menu.  
 
-Prerequisites:
-Python 3.x installed on your system.
+- **Input Validation**  
+  Handles invalid inputs gracefully to ensure smooth user experience.
 
-Future Updates
-Persistent Storage: Save and load tasks across sessions.
-Task Prioritization: Assign priority levels to tasks.
-Due Dates: Add deadlines to tasks with optional reminders.
-Search and Filter: Easily find tasks based on keywords or categories.
+- **Status Feedback**  
+  Clear messages confirm successful actions or notify users of any errors.
 
-Technologies Used
-Python 3.x
-Developed using Python for its simplicity, versatility, and extensive library support.
+---
+
+## Getting Started
+
+### Prerequisites:
+- **Python 3.x** installed on your system.
+
+### Installation:
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/A7X-lab/Python-Artifact-5.git
